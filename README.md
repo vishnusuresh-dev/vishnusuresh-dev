@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Algo Stats**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **vishnu.workspace15@gmail.com**
 
