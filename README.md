@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **SMART-HR**
 
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **vishnu.workspace15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
