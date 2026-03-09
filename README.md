@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Python, AI Systems**
+- 🌱 I’m currently learning **AI Systems**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Python**
 
 - 📫 How to reach me **vishnu.workspace15@gmail.com**
 
